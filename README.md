@@ -51,5 +51,4 @@ Sistema-Cadastro-Universidade/
 
 
 
-(Imagens devem ser colocadas na pasta `prototipos-fase2/`)
 
